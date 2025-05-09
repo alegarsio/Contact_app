@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">ContactApp</string>
+    <string name="tambah">Tambah</string>
+    <string name="hapus">Hapus</string>
+    <string name="edit">Edit</string>
+    <string name="list_kontak">Kontak Saya</string>
+    <string name="belum_ada_kontak">Belum Ada Kontak</string>
+    <string name="nama">Nama</string>
+    <string name="Nomor_telepon">Nomor Telepon</string>
+    <string name="email">Email</string>
+    <string name="simpan">Simpan</string>
+    <string name="batal">Batal</string>
+    <string name="update">Perbarui</string>
+    <string name="list_view">List</string>
+    <string name="grid_view">Grid</string>
+    <string name="hapus_confirm">Hapus Contact ini</string>
+    <string name="hapus_pesan">Yakin Mau Hapus</string>
+    <string name="Iya">Iya</string>
+    <string name="Tidak">Tidak</string>
+    <string name="tidak_ada_kontak">Tidak ada kontak yang cocok</string>
+    <string name="label_cari_kontak">Cari Kontak</string>
+    <string name="placeholder_cari">Ketik nama, nomor, atau email…</string>
+    <string name="cd_ikon_cari">Ikon Pencarian</string>
+    <string name="cd_bersihkan_pencarian">Bersihkan Pencarian</string>
+    <string name="cd_urutkan">Ubah Urutan</string>
+    <string name="tooltip_urutkan_az">Saat ini: A-Z (Ketuk untuk Z-A)</string>
+    <string name="tooltip_urutkan_za">Saat ini: Z-A (Ketuk untuk A-Z)</string>
+
 </resources>
